@@ -6,5 +6,10 @@ All files are covered under the [Creative Commons Attribution-NonCommercial-Shar
 files
 =====
 1. 18q08.aug.Rapid Threat Model Prototyping.pptx
-
-   * presentation of RTMP process
+   * original presentation of RTMP process
+2. 18x14.nov.3.Rapid Threat Model Prototyping - step by step.draw.io sample diagram.xml
+   * sample draw.io diagram to test the process
+1. 18x14.nov.3.Rapid Threat Model Prototyping - step by step.pptx
+   * Walkthrough presentation of RTMP process,showing the steps
+1. 18x26.Tutamen HOWTO-Rapid Threat Model Prototyping.docx
+   * in-depth walkthrough document of RTMP process, going into detail, with examples
