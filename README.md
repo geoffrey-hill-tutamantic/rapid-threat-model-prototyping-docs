@@ -13,3 +13,5 @@ files
    * Walkthrough presentation of RTMP process,showing the steps
 1. 18x26.Tutamen HOWTO-Rapid Threat Model Prototyping.docx
    * in-depth walkthrough document of RTMP process, going into detail, with examples
+1. 18x26.Tutamen HOWTO-Rapid Threat Model Prototyping.pdf
+   * same document as the docx above, but in pdf format
