@@ -23,3 +23,5 @@ All files are covered under the [Creative Commons Attribution-NonCommercial-Shar
    * same document as the docx above, but in pdf format
 6. 19f31.jan.TRAINING - Threat Modeling Introduction and RTMP.pptx
    * this slide deck contains actual training which can be systematically followed
+7. 19k27.may.Rapid Threat Model Prototyping.pptx
+   * This new deck was created for OWASP AppSec Global Summit 2019  in Tel Aviv. It has the latest version.
