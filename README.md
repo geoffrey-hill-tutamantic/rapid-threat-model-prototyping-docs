@@ -28,6 +28,6 @@ All files are covered under the [Creative Commons Attribution-NonCommercial-Shar
 8. 19h20.mar.mapping table - STRIDE-OT10-CWE-OPC-ASVS.xlsx
    * This sheet will help a team to map the STRIDE threats to other frameworks to either find more specific threats or to find mitigations. This enables a team to not have the burden of maintaining Threat and Security Mitigation libraries.These are now based on the standard OWASP mitigation libraries.
 9. 19m04.jun.INFEU18_Geoffrey Hill - Rapid Threat Model Prototyping _PPT_Tech_Talks.pptx
-  * Infosecurity Europe presentation
+   * Infosecurity Europe presentation
 10. Kill Chain.pptx
-  * This shows the attack kill chain
+   * This shows the attack kill chain
