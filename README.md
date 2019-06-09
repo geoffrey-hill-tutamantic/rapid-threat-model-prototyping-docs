@@ -25,3 +25,5 @@ All files are covered under the [Creative Commons Attribution-NonCommercial-Shar
    * this slide deck contains actual training which can be systematically followed
 7. 19k27.may.Rapid Threat Model Prototyping.pptx
    * This new deck was created for OWASP AppSec Global Summit 2019  in Tel Aviv. It has the latest version.
+8. 19h20.mar.mapping table - STRIDE-OT10-CWE-OPC-ASVS.xlsx
+   * This sheet will help a team to map the STRIDE threats to other frameworks to either find more specific threats or to find mitigations. This enables a team to not have the burden of maintaining Threat and Security Mitigation libraries.These are now based on the standard OWASP mitigation libraries.
