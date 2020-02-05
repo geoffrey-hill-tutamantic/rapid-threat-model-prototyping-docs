@@ -31,3 +31,5 @@ All files are covered under the [Creative Commons Attribution-NonCommercial-Shar
    * Infosecurity Europe presentation
 10. Kill Chain.pptx
    * This shows the attack kill chain
+11. 20g04.feb.Broadlight.Geoffrey Hill - Rapid Threat Model Prototyping.pptx
+   * Broad presentation done Feb 04, 2020
